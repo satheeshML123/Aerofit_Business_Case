@@ -1,4 +1,20 @@
-# Aerofit_Business_Case
-Aerofit - Descriptive Statistics &amp; Probability
-Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
-The Aerofit Business_Case objectives are to apply scalable data analytics tool, techniques and probability and ststistics to gain useful insights and to support decision making. Most project will source open data from the web. The activities include data extraction, preprocessing(missing value and outlier detection) using python numpy and pandas, data visualization using matplotlib and seaborn libraries and probability&Statistics.
+# Predictive Analysis of Shared Electric Cycles in India
+Project Overview:
+Aerofit is a leading fitness equipment brand offering treadmills, exercise bikes, and gym accessories. This project focuses on leveraging data analytics and probability/statistics to extract business insights that support better decision-making.
+
+Objective:
+To apply scalable data analysis techniques to Aerofit's product and customer data, enabling actionable insights through descriptive statistics, data visualization, and statistical reasoning.
+
+Key Activities:
+
+Data Extraction & Cleaning: Collected and cleaned open-source fitness industry data using NumPy and Pandas; handled missing values and outliers.
+
+Exploratory Data Analysis (EDA): Performed EDA to identify usage patterns and product performance trends.
+
+Statistical Analysis: Applied probability distributions, measures of central tendency, dispersion, and correlation analysis to interpret business trends.
+
+Data Visualization: Used Matplotlib and Seaborn to create compelling visualizations for stakeholder presentations.
+
+Outcome:
+Generated insights on customer behavior, equipment usage, and product trends, providing a data-driven foundation for marketing, inventory planning, and product development at Aerofit.
+
